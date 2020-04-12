@@ -1,0 +1,52 @@
+/*#accordion
+{
+	width:60%;
+}*/
+
+.pos{
+margin-left: 40px;
+width: 150px;
+height: 50px;
+border-radius: 12px;
+transition-duration: 0.4s;
+
+}
+.pos:hover{
+background-color: red; /* Green */
+  color: white;
+}
+.neg{
+margin-left: 40px;
+width: 150px;
+height: 50px;
+border-radius: 12px;
+transition-duration: 0.4s;
+
+}
+.neg:hover{
+background-color: green; /* Green */
+  color: white;
+}
+.panel-body img{
+	width: 200px;
+	height: 200px;
+}
+#positive
+{
+	color:red;
+}
+#negative
+{
+	color:green;
+}
+/*#negg:hover{
+	background-color: green; /* Green */
+  color: white;
+}*/
+.list-group{
+	background-color: #E7EEF8;
+}
+.list-group-item:hover{
+	background-color:#DDCFE8 ; 
+  color: #000000;
+}
